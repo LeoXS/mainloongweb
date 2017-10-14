@@ -5,21 +5,19 @@ categories: event race
 img_pathfile: /assets/images/posts/2017-09-25-wiesbaden
 ---
 
-![image](/assets/images/posts/2017-09-25-wiesbaden-1.png)
-
 
 ![image]({{ page.img_pathfile | absolute_url }}-1.png)
 
 
 在刚刚过去的威斯巴登赛事，美龙荣获200m业余组亚军！
 
-![image]({{ page.img_pathfile }}-2.png | absolute_url)
+![image]({{ page.img_pathfile | absolute_url }}-2.png | absolute_url)
 
 美龙在不断证明着，我们团结一致，划向世界！谁说中国人不能玩集体项目！
 
-![image]({{ page.img_pathfile }}-3.png | absolute_url)
+![image]({{ page.img_pathfile | absolute_url }}-3.png | absolute_url)
 
-![image]({{ page.img_pathfile }}-4.png | absolute_url)
+![image]({{ page.img_pathfile | absolute_url }}-4.png | absolute_url)
 
 
 7月威斯巴登D组决赛第一，7月黑森州州庆冠军，8月法兰克福河谷节业余组第三，9月威斯巴登业余组第二名。
