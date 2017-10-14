@@ -5,7 +5,11 @@ categories: event race
 img_pathfile: /assets/images/posts/2017-09-25-wiesbaden
 ---
 
-![image]({{ page.img_pathfile }}-1.png | absolute_url)
+![image](/assets/images/posts/2017-09-25-wiesbaden-1.png)
+
+
+![image]({{ page.img_pathfile | absolute_url }}-1.png)
+
 
 在刚刚过去的威斯巴登赛事，美龙荣获200m业余组亚军！
 
