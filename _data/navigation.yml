@@ -1,12 +1,17 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "训练安排"
+    url: /_pages/training/
+  - title: "加入我们"
+    url: /_pages/joinus/
+  - title: "赞助商"
+    url: /_pages/spender/
+  - title: "公关代理"
+    url: /_pages/agent/
+
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "关于美龙"
+    url: /_pages/about/
