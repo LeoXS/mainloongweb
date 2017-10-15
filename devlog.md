@@ -17,11 +17,12 @@ Replace the current mainloong web with a new one which is more user friendly, an
 ### Step 2: extension of features
 
 - [ ] Show date under title
-- [ ] Posts with comments
-    - Snapshot list on main
-    - Forward to social media
+- [x] Posts with comments
+- [x] Snapshot list on main
+- [ ] Forward to social media
 - [ ] Adds FAQ
 - [ ] Multilanguage
+- [ ] Create category pages
 
 ### Step 3: deployment
 
