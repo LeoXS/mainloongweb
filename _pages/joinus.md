@@ -19,8 +19,7 @@ title: 加入我们
   <option value="Female">女</option>
   </select>
   <br>
-  
  
-  <textarea name="self-introduction" placeholder="请介绍自己/Please introduce yourself"></textarea> <br><br>
+  <textarea name="self-introduction" placeholder="请介绍自己/Please introduce yourself" ></textarea> <br><br>
   <button type="submit">Send</button>
 </form>

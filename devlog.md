@@ -9,11 +9,14 @@ Replace the current mainloong web with a new one which is more user friendly, an
 - [x] Static contents
 - [x] Embends google calendar and maps
 - [x] Contact form (improvement)
-- [ ] Link to social network
+  - [ ] Change email address to mainloong.council@gmail.com
+- [x] Link to social network
+  - [ ] Add Weixin
 - [ ] Photo gallery (improvement)
 
 ### Step 2: extension of features
 
+- [ ] Show date under title
 - [ ] Posts with comments
     - Snapshot list on main
     - Forward to social media
