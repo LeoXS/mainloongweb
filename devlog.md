@@ -9,10 +9,12 @@ Replace the current mainloong web with a new one which is more user friendly, an
 - [x] Static contents
 - [x] Embends google calendar and maps
 - [x] Contact form (improvement)
+  - [x] Use disqus. Regist as site name 'mainloong', user mainloong.council@gmail.com
   - [ ] Change email address to mainloong.council@gmail.com
 - [x] Link to social network
-  - [ ] Add Weixin
-- [ ] Photo gallery (improvement)
+- [ ] Photo gallery (improvement): local photo links to google photo album
+- [ ] Add video
+- [ ] Fix image path problem
 
 ### Step 2: extension of features
 
@@ -23,6 +25,8 @@ Replace the current mainloong web with a new one which is more user friendly, an
 - [ ] Adds FAQ
 - [ ] Multilanguage
 - [ ] Create category pages
+- [ ] Header image for posts
+- [ ] Share to  Weixin
 
 ### Step 3: deployment
 

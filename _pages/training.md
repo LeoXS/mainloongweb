@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 2017训练
+title: 2017训练和比赛
 ---
 
 
@@ -23,6 +23,6 @@ Schaumainkai 90 <br>
 <p><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5118.440733129304!2d8.664688772971859!3d50.100882124022974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd0c06c771f1d7%3A0xba8542503b7ecfc0!2sSchaumainkai+90%2C+60596+Frankfurt+am+Main!5e0!3m2!1sen!2sde!4v1488739824746" width="600" height="450" frameborder="0" allowfullscreen=""></iframe></p>
 
 
-### 时间表
+### 赛事
 
 <p><iframe style="border: 0;" src="https://calendar.google.com/calendar/embed?src=mainloong.council%40gmail.com&amp;ctz=Europe/Berlin" width="600" height="450" frameborder="0" scrolling="no"></iframe></p>
