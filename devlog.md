@@ -14,20 +14,21 @@ Replace the current mainloong web with a new one which is more user friendly, an
 - [x] Link to social network
 - [ ] Photo gallery (improvement): local photo links to google photo album
 - [x] Add video
-- [ ] Changes menu: add submenu () to "Join us"
+- [x] Changes menu: add submenu () to "Join us"
 Bugs:
 
 - [x] Fix image path problem
-- [ ] replace "absolute_url" with "base_url"
+- [x] replace "absolute_url" with "base_url"
 
 ### Step 2: extension of features
 
 - [x] Posts with comments
 - [x] Snapshot list on main
 - [ ] Next event on main page
-- [ ] Adds FAQ
+- [x] Adds FAQ
 - [ ] Multilanguage
 - [ ] Create category pages
+- [ ] Photo with caption
 
 Maybe:
 - [ ] Show date under title

@@ -1,6 +1,8 @@
 ---
 layout: single
 title: 2017训练和比赛
+sidebar:
+  nav: training
 ---
 
 

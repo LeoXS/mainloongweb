@@ -2,11 +2,11 @@
 main:
   - title: "训练和赛事"
     url: /_pages/training/
+  - title: "龙舟运动"
+    url: /_pages/faq/
   - title: "加入我们"
     url: /_pages/joinus/
-  - title: "赞助商"
-    url: /_pages/spender/
-  - title: "公关代理"
+  - title: "赞助美龙"
     url: /_pages/agent/
   # - title: "Sample Collections"
   #   url: /collection-archive/
@@ -14,3 +14,64 @@ main:
   #   url: /sitemap/
   - title: "关于美龙"
     url: /_pages/about/
+
+training:
+  - title: "训练时间"
+    url: /_pages/training/#训练时间
+  - title: "Probetraining"
+    url: /_pages/training/#Probetraining
+  - title: "训练地点"
+    url: /_pages/training/#训练地点
+  - title: "赛事"
+    url: /_pages/training/#赛事
+
+about:
+  - title: "关于美龙"
+    url: /_pages/about/#pageheaderw
+  - title: "联系我们"
+    url: /_pages/about/#联系我们
+  - title: "理事会成员"
+    url: /_pages/about/#理事会成员
+  - title: "协会章程"
+    url: /_pages/about/#协会章程
+  - title: "美龙历史"
+    url: /_pages/about/#美龙历史
+
+
+agent:
+  - title: "赞助美龙"
+    url: /_pages/agent/#pageheader
+  - title: "2017 独家赞助"
+    url: /_pages/agent/#2017-独家赞助
+  - title: "历年赞助商"
+    url: /_pages/agent/#历年赞助商
+
+faq:
+  - title: "开篇"
+    children:
+      - title: "为什么要划龙舟？"
+        url: /_pages/faq/#CH1-1
+      - title: "为什么要参加美龙队？"
+        url:  /_pages/faq/#CH1-2
+      - title: "我是否适合划龙舟，会不会太胖或太瘦，有哪些身体要求？"
+        url:  /_pages/faq/#CH1-3
+      - title: "我不会游泳怎么办？"
+        url: /_pages/faq/#CH1-4
+  - title: "龙舟篇"
+    children:
+      - title: "龙舟上有多少人，座位怎么分配？"
+        url: /_pages/faq/#CH2-1
+      - title: "龙舟上有哪些不同职责？"
+        url: /_pages/faq/#CH2-2
+  - title: "装备篇"
+    children:
+      - title: "划龙舟需要哪些装备？"
+        url: /_pages/faq/#CH3-1
+      - title: "我看到了不同材料的桨，它们有什么特点 ，我应该如何选择？"
+        url: /_pages/faq/#CH3-2
+  - title: "比赛篇"
+    children:
+      - title: "龙舟比赛要划多远，不同的比赛距离需要注意什么？"
+        url: /_pages/faq/#CH4-1
+      - title: "龙舟比赛有哪些阶段？"
+        url: /_pages/faq/#CH4-2

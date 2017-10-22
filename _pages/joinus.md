@@ -3,8 +3,6 @@ layout: single
 title: 加入我们
 ---
 
-<iframe src="https://www.youtube.com/embed/2rK4RM2owW4" width="560" height="315" frameborder="0" allowfullscreen=""></iframe>
-
 <form method="POST" action="http://formspree.io/song.xie@gmail.com">
   您的邮箱：*
   <input type="email" name="email" placeholder="your@email.address" required> <br>
