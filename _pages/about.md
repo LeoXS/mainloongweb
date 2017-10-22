@@ -36,7 +36,7 @@ sidebar:
 
 ### 协会章程
 
-点击 [下载]( {{ "/assets/files/vereinssatzung.pdf" | relative_url }} )
+点击 [下载]( https://drive.google.com/file/d/0B6EXk5Of39L7Rk1XNldCQVB4UVk/view?usp=sharing )
 
 
 ### 美龙历史

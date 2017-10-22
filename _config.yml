@@ -253,5 +253,6 @@ defaults:
       related: true
 
 # Custom varables
-imgpath: /assets/images/
+imgpath: /assets/images
 post_imgpath: /assets/images/posts
+
