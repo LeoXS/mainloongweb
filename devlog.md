@@ -36,7 +36,7 @@ Maybe:
 - [ ] Photo with caption
 - [ ] Multilanguage
 - [ ] Add "follow up" for facebook
-
+- [ ] Replace sidebar with jekyll-toc
 
 ### Step 3: deployment
 
