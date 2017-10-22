@@ -1,7 +1,7 @@
 ---
 title: 主场之站 - 荣获混合组第三名
 date: 2017-08-28 16:00:00
-categories: event race
+categories: 比赛
 postname: 2017-08-28-frankfurt
 ---
 

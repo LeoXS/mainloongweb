@@ -1,7 +1,7 @@
 ---
 title: 阳光灿烂的周末——来Wiesbaden看2000米龙舟赛
 date: 2017-07-05 12:00:00
-categories: event race
+categories: 比赛
 postname: 2017-07-05-wiesbaden
 ---
 

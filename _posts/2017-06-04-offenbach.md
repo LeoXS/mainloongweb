@@ -1,7 +1,7 @@
 ---
 title: 用莱茵美茵桨上的水花，正式开启夏天的姿势
 date: 2017-06-04 12:00:00
-categories: event race
+categories: 比赛
 postname: 2017-06-04-offenbach
 ---
 

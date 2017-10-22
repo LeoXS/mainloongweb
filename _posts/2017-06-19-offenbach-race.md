@@ -1,7 +1,7 @@
 ---
 title: 美茵河上的中国龙
 date: 2017-06-19 18:00:00
-categories: event race
+categories: 比赛
 postname: 2017-06-19-offenbach-race
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 本周六23号来威斯巴登助威吧
 date: 2017-09-21 18:00:00
-categories: event race
+categories: 比赛
 postname: 2017-09-21-wiesbaden
 ---
 

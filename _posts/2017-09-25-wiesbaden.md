@@ -1,7 +1,7 @@
 ---
 title: 今年夏天很精彩，拿奖拿到手抽筋
 date: 2017-09-25 16:16:01
-categories: event race
+categories: 比赛
 postname: 2017-09-25-wiesbaden
 ---
 
