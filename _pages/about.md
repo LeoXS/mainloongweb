@@ -17,7 +17,7 @@ title: 关于美龙
 
 ### 理事会成员
 
-![image](/assets/images/counsil.png)
+![image]( {{ site.imgpath | relative_url }}/counsil.png )
 
 
 （从左至右）	 
@@ -31,7 +31,7 @@ title: 关于美龙
 
 ### 协会章程
 
-点击 [下载](/assets/files/vereinssatzung.pdf)
+点击 [下载]( {{ "/assets/files/vereinssatzung.pdf" | relative_url }} )
 
 
 ### 美龙历史

@@ -13,20 +13,26 @@ Replace the current mainloong web with a new one which is more user friendly, an
   - [ ] Change email address to mainloong.council@gmail.com
 - [x] Link to social network
 - [ ] Photo gallery (improvement): local photo links to google photo album
-- [ ] Add video
-- [ ] Fix image path problem
+- [x] Add video
+- [ ] Changes menu: add submenu () to "Join us"
+Bugs:
+
+- [x] Fix image path problem
+- [ ] replace "absolute_url" with "base_url"
 
 ### Step 2: extension of features
 
-- [ ] Show date under title
 - [x] Posts with comments
 - [x] Snapshot list on main
-- [ ] Forward to social media
+- [ ] Next event on main page
 - [ ] Adds FAQ
 - [ ] Multilanguage
 - [ ] Create category pages
-- [ ] Header image for posts
-- [ ] Share to  Weixin
+
+Maybe:
+- [ ] Show date under title
+- [ ] Forward to social media: Weixin
+- [ ] Header image for posts: too big
 
 ### Step 3: deployment
 
