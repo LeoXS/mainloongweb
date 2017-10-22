@@ -24,16 +24,17 @@ Bugs:
 
 - [x] Posts with comments
 - [x] Snapshot list on main
-- [ ] Next event on main page
+- [x] Next event on main page
 - [x] Adds FAQ
-- [ ] Multilanguage
 - [ ] Create category pages
-- [ ] Photo with caption
+
 
 Maybe:
 - [ ] Show date under title
 - [ ] Forward to social media: Weixin
 - [ ] Header image for posts: too big
+- [ ] Photo with caption
+- [ ] Multilanguage
 
 ### Step 3: deployment
 

@@ -11,7 +11,7 @@ postname: 2017-09-21-wiesbaden
 ![image]( {{ site.post_imgpath | relative_url }}/{{ page.postname }}-1.png )
 
 ![image]( {{ site.post_imgpath | relative_url }}/{{ page.postname }}-2.png )
-*七月初在Wiesbaden的比赛，美龙荣获250m小组赛第一，也作为唯一参赛2000m项目的华人队伍*
+_七月初在Wiesbaden的比赛，美龙荣获250m小组赛第一，也作为唯一参赛2000m项目的华人队伍_
 
 
 ![image]( {{ site.post_imgpath | relative_url }}/{{ page.postname }}-3.png )
@@ -21,9 +21,10 @@ Wiesbaden的比赛级别很高，经常偶遇德国国家队队员，此次美�
 为了这次的比赛，美龙在周末积极训练，赛前做好充分的准备。
 
 
-时间就在23日本周六，
-场地位于 Wiesbaden Schiersteiner Hafen 
+时间就在23日本周六，<br>
+场地位于 Wiesbaden Schiersteiner Hafen <br>
 详细地址：Christian-Bücher-Str. 18, 65201 Wiesbaden-Schierstein
+{: .notice--info}
 
 ![image]( {{ site.post_imgpath | relative_url }}/{{ page.postname }}-4.png )
 
