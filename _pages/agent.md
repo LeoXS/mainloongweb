@@ -3,7 +3,8 @@ layout: single
 title: 公关代理
 ---
 
-![image](/assets/images/spender/stb.png){: .align-left}
+![image]( {{ site.imgpath | relative_url }}/spender/stb.png)
+
 施坦博投资咨询公司. 您在中国和欧洲的伙伴
 
 > 来而不往非礼也---孔子
@@ -25,5 +26,5 @@ Germany（德国）
 电话: +49 (0) 69 1338 5311 <br>
 传真: +49 (0) 69 1338 5312 <br>
 手机: +49 (0) 176 2096 5067 <br>
-邮箱 ： info@steinbeis-china.com <br>
+邮箱 ： info@steinbeis-china.com
 {: .notice--info}

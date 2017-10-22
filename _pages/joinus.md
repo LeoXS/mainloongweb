@@ -3,7 +3,7 @@ layout: single
 title: 加入我们
 ---
 
-
+<iframe src="https://www.youtube.com/embed/2rK4RM2owW4" width="560" height="315" frameborder="0" allowfullscreen=""></iframe>
 
 <form method="POST" action="http://formspree.io/song.xie@gmail.com">
   您的邮箱：*
@@ -23,3 +23,25 @@ title: 加入我们
   <textarea name="self-introduction" placeholder="请介绍自己/Please introduce yourself" ></textarea> <br><br>
   <button type="submit">Send</button>
 </form>
+
+
+### 我们是冠军
+
+<iframe src="https://www.youtube.com/embed/mQDFo81z-ss" width="560" height="315" frameborder="0" allowfullscreen=""></iframe>
+
+### 2015 年法兰克福河谷节SPORT FUN CUP 半决赛
+
+<iframe src="https://www.youtube.com/embed/vH2M_VG3NHo" width="560" height="315" frameborder="0" allowfullscreen=""></iframe>
+
+### 2015年5月奥芬巴赫龙舟赛
+
+<iframe class="video_iframe" style="z-index: 1;" src="http://v.qq.com/iframe/player.html?vid=q0163l95ghz&amp;width=560&amp;height=315&amp;auto=0" width="560" height="315" frameborder="0" allowfullscreen=""></iframe>
+
+### 2012年5月法兰克福龙舟赛
+
+<iframe src="https://www.youtube.com/embed/ka5catODA8E" width="560" height="315" frameborder="0" allowfullscreen=""></iframe>
+
+### 2009年5月法兰克福龙舟赛颁奖仪式
+
+<iframe src="https://www.youtube.com/embed/IMd47mMB9zM" width="560" height="315" frameborder="0" allowfullscreen=""></iframe>
+

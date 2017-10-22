@@ -11,7 +11,7 @@ postname: 2017-06-04-offenbach
 终于，龙舟的赛季随着端午的过去姗姗而来。
 若说这个端午有什么遗憾，那就是缺两场龙舟赛。
 
-![image]( {{ site.post_imgpath | absolute_url }}/{{ page.postname }}-1.png )
+![image]( {{ site.post_imgpath | relative_url }}/{{ page.postname }}-1.png )
 
 一赛就是两场，龙腾虎跃的美龙人，驾着祖国来的龙舟，万水千山之外，争取一份荣耀。
 
@@ -33,4 +33,4 @@ postname: 2017-06-04-offenbach
  地点：Main/Hessentagsufer in Rüsselsheim am Main (Mainvorland/Landungsplatz) 
 {: .notice--info }
 
-![image]( {{ site.post_imgpath | absolute_url }}/{{ page.postname }}-2.png )
+![image]( {{ site.post_imgpath | relative_url }}/{{ page.postname }}-2.png )
