@@ -27,7 +27,7 @@ Bugs:
 - [x] Next event on main page
 - [x] Adds FAQ
 - [ ] Create category pages
-
+- [x] Clean up footer
 
 Maybe:
 - [ ] Show date under title
@@ -35,6 +35,8 @@ Maybe:
 - [ ] Header image for posts: too big
 - [ ] Photo with caption
 - [ ] Multilanguage
+- [ ] Add "follow up" for facebook
+
 
 ### Step 3: deployment
 
