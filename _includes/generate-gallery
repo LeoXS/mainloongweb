@@ -18,8 +18,8 @@
   {% for img in site.static_files %}
     {% if img.path contains gallery_pattern %}
       {% if gallery_extentions contains img.extname %}
-        <a href="{{img.path}}" title="{{ img.basename }}" >
-          <img src="{{ img.path }}"
+        <a href="{{ img.path | relative_url }}" title="{{ img.basename }}" >
+          <img src="{{ img.path | relative_url }}"
             alt="{{ img.basename }}">
         </a>
       {% endif %}
