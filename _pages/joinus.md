@@ -31,9 +31,6 @@ title: 加入我们
 
 <iframe src="https://www.youtube.com/embed/vH2M_VG3NHo" width="560" height="315" frameborder="0" allowfullscreen=""></iframe>
 
-### 2015年5月奥芬巴赫龙舟赛
-
-<iframe class="video_iframe" style="z-index: 1;" src="http://v.qq.com/iframe/player.html?vid=q0163l95ghz&amp;width=560&amp;height=315&amp;auto=0" width="560" height="315" frameborder="0" allowfullscreen=""></iframe>
 
 ### 2012年5月法兰克福龙舟赛
 
