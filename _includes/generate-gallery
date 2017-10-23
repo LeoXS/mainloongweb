@@ -1,0 +1,31 @@
+{% if include.pattern %}
+  {% assign gallery_pattern = include.pattern %}
+{% else %}
+  {% assign gallery_pattern = '' %}
+{% endif %}
+
+
+{% if include.extentions %}
+  {% assign gallery_extentions = include.extentions %}
+{% else %}
+  {% assign gallery_extentions = ".jpg, .JPG, .png, .PNG" | split: ", " %}
+{% endif %}
+
+
+{% assign gallery_layout = 'fourth' %}
+
+<figure class="{{ gallery_layout }} {{ include.class }}">
+  {% for img in site.static_files %}
+    {% if img.path contains gallery_pattern %}
+      {% if gallery_extentions contains img.extname %}
+        <a href="{{img.path}}" title="{{ img.basename }}" >
+          <img src="{{ img.path }}"
+            alt="{{ img.basename }}">
+        </a>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  {% if include.caption %}
+    <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+  {% endif %}
+</figure>

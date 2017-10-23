@@ -2,6 +2,8 @@
 main:
   - title: "训练和赛事"
     url: /_pages/training/
+  - title: "精彩瞬间"
+    url: /_pages/gallery/
   - title: "龙舟运动"
     url: /_pages/faq/
   - title: "加入我们"
@@ -75,3 +77,9 @@ faq:
         url: /_pages/faq/#CH4-1
       - title: "龙舟比赛有哪些阶段？"
         url: /_pages/faq/#CH4-2
+
+gallery:
+  - title: "2017"
+    url: /_pages/gallery/#2017
+  - title: "2016"
+    url: /_pages/gallery/#2016
