@@ -1,8 +1,10 @@
 ---
 layout: single
-image_exts: .png .jpg
+title: 由一个个瞬间组成的照片墙
 sidebar:
   nav: gallery
+  
+image_exts: .png .jpg
 ---
 
 
