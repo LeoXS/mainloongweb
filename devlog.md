@@ -12,7 +12,7 @@ Replace the current mainloong web with a new one which is more user friendly, an
   - [x] Use disqus. Regist as site name 'mainloong', user mainloong.council@gmail.com
   - [ ] Change email address to mainloong.council@gmail.com
 - [x] Link to social network
-- [ ] Photo gallery (improvement): local photo links to google photo album
+- [x] Photo gallery (improvement)
 - [x] Add video
 - [x] Changes menu: add submenu () to "Join us"
 Bugs:
@@ -26,7 +26,7 @@ Bugs:
 - [x] Snapshot list on main
 - [x] Next event on main page
 - [x] Adds FAQ
-- [ ] Create category pages
+- [x] Create category pages
 - [x] Clean up footer
 
 Maybe:

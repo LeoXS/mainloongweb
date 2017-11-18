@@ -14,10 +14,7 @@ sidebar:
 
  邮件: contact@mainloong.de <br>
  电话: +49-176 2402 7785 <br>
- <br> 
- Global office center <br>
- Bleichstrasse 1 <br>
- 60313 Frankfurt am Main
+ 地址 : Bettinastr. 30, 60325 Frankfurt am Main
 {: .notice--info}
 
 ### 理事会成员

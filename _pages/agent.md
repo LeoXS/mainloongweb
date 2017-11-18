@@ -12,17 +12,15 @@ sidebar:
 电话: +49 (0) 69 1338 5311 <br>
 传真: +49 (0) 69 1338 5312 <br>
 手机: +49 (0) 176 2096 5067 <br>
-邮箱 ： info@steinbeis-china.com <br> <br>
-地址 : Bleichstrasse 1 <br>
-D-60313 Frankfurt am Main (法兰克福) <br>
-Germany（德国）
+邮箱： info@steinbeis-china.com <br>
+地址: Bettinastr. 30, 60325 Frankfurt am Main
 {: .notice--info}
 
 
 
 ### 2017 独家赞助
 
-<a href="http://www.stbconsulting.de/"> 
+<a href="https://www.steinbeis-china.com"> 
 ![image]( {{ site.imgpath | relative_url }}/spender/stb.png)
 </a>
 
@@ -41,7 +39,11 @@ Germany（德国）
 
 #### 2016
 
+![image]( {{ site.imgpath | relative_url }}/spender/htb_dmw.png)
+
 ![image]( {{ site.imgpath | relative_url }}/spender/jinguanlogo.png)
+
+<center> <font size="+4">广西同乡会 </font> </center>
 
 #### 2015
 
