@@ -17,8 +17,19 @@ sidebar:
 {: .notice--info}
 
 
+### 2018
 
-### 2017 独家赞助
+<a href="https://www.steinbeis-china.com"> 
+![image]( {{ site.imgpath | relative_url }}/spender/stb.png)
+</a>
+
+![image]( {{ site.imgpath | relative_url }}/spender/sun_immobilien.jpeg)
+
+![image]( {{ site.imgpath | relative_url }}/spender/jinguanlogo.png)
+
+### 历年赞助商
+
+#### 2017 独家赞助
 
 <a href="https://www.steinbeis-china.com"> 
 ![image]( {{ site.imgpath | relative_url }}/spender/stb.png)
@@ -35,7 +46,6 @@ sidebar:
 
 施坦博投资咨询公司致力于为不同的文化构建沟通的桥梁。 在您的创业阶段，我们为您提供完善的创业咨询。在公司成功建立，正式运营后，我们亦为您提供关于采购，市场营销，经营以及项目发展等方面的建议与策略，从而让您于中国乃至全球的业务在我们周到的服务下踏上成功的坦途。
 
-### 历年赞助商
 
 #### 2016
 
