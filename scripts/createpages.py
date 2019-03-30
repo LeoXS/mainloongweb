@@ -106,12 +106,20 @@ class PostCreator(object):
 
 if __name__ == '__main__':
     usage = '''Usage:
-    {} url1 [url2 ...]
+    python3 {} url1 [url2 ...]
     '''.format(sys.argv[0])
 
     if (len(sys.argv) < 2):
         print(usage)
         sys.exit()
+
+    logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)-5.5s]  %(message)s",
+    handlers=[
+        # logging.FileHandler("{0}/{1}.log".format(logPath, fileName)),
+        logging.StreamHandler()
+    ])
 
     basePath = os.path.join(os.path.dirname(os.path.realpath(__file__)), os.pardir)
     postPath = os.path.join(basePath, '_posts')
