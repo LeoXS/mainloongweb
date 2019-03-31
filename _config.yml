@@ -254,5 +254,6 @@ defaults:
 
 # Custom varables
 imgpath: /assets/images
+docpath: /assets/docs
 post_imgpath: /assets/images/posts
 

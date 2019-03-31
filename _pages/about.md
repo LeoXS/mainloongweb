@@ -19,16 +19,17 @@ sidebar:
 
 ### 理事会成员
 
-![image]( {{ site.imgpath | relative_url }}/counsil.png )
+![image]( {{ site.imgpath | relative_url }}/council.png )
 
 
 （从左至右）	 
 
-| 杨悦   | 理事   |
-| 张鹏   | 副会长 |
-| 李达   | 副会长 |
-| 夏晨晖 | 会长   |
-| 谢嵩   | 理事   |
+| 杨悦   | 副会长     |
+| 徐娇子 | 理事       |
+| 谢嵩   | 理事       |
+| 李达   | 会长       |
+| 刘小静 | 工作组成员 |
+| 高乔逸 | 理事       |
 
 
 ### 协会章程

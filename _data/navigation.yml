@@ -43,10 +43,10 @@ about:
 agent:
   - title: "赞助美龙"
     url: /_pages/agent/#pageheader
-  - title: "2017 独家赞助"
-    url: /_pages/agent/#2017-独家赞助
   - title: "历年赞助商"
     url: /_pages/agent/#历年赞助商
+  - title: "历年个人赞助"
+    url: /_pages/agent/#历年个人赞助
 
 faq:
   - title: "开篇"
